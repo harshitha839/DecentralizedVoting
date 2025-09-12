@@ -84,4 +84,6 @@ We aim to restore public confidence in electoral processes by providing a soluti
 
 This project represents a significant step toward modernizing democratic processes through blockchain technology, with a clear roadmap for continuous improvement and expansion.
 contract 
+network address
+
 <img width="941" height="470" alt="image" src="https://github.com/user-attachments/assets/0360c210-0268-49ba-8a6d-542dfd711827" />
