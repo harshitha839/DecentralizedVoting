@@ -88,3 +88,4 @@ network address
 CONTRact :
 0xd9145CCE52D386f254917e481eB44e9943F39138
 <img width="941" height="470" alt="image" src="https://github.com/user-attachments/assets/0360c210-0268-49ba-8a6d-542dfd711827" />
+26/11/2025
